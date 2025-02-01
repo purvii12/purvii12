@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @purvii12
-- 🌱 I’m currently learning web development through js
+- 👋 Hi, I’m Purvii
+- 🌱 I’m currently learning web development.
 - i have basic knowledge of python , html , css, mysql and matplotlib
 
 <!---
