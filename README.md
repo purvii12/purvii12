@@ -1,6 +1,5 @@
 👋 Hi, I'm Purvi
-Welcome to my GitHub profile! I'm a developer who loves turning ideas into functional, user-friendly applications. I enjoy working across the stack,
-building everything from slick frontends to efficient backends.
+Welcome to my GitHub profile! I'm a budding developer who loves working on new ideas
 
 🔭 Currently exploring: full-stack web development and automation tools <br>
 💡 Always up for: solving real-world problems with code <br>
