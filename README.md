@@ -1,5 +1,5 @@
 👋 Hi, I'm Purvi
-Welcome to my GitHub profile! I'm a budding developer who loves working on new ideas
+Welcome to my GitHub profile! I'm a web developer who loves working on new ideas
 
 🔭 Currently exploring: full-stack web development and automation tools <br>
 💡 Always up for: solving real-world problems with code <br>
