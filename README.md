@@ -1,11 +1,11 @@
-👋 Hi, I'm Purvi
+ Hi, I'm Purvi
 Welcome to my GitHub profile! I'm a web developer who loves working on new ideas
 
-🔭 Currently exploring: full-stack web development and automation tools <br>
-💡 Always up for: solving real-world problems with code <br>
-🌱 Learning more about: Machine Learning . <br>
-💬 Ask me about: JavaScript, Python, C++ , Java , SQL . <br>
-📫 Reach me at: www.linkedin.com/in/purvi-khandelwal45 <br>
+ Currently exploring: full-stack web development and automation tools <br>
+ Always up for: solving real-world problems with code <br>
+ Learning more about: Machine Learning . <br>
+ Ask me about: JavaScript, Python, C++ , Java , SQL . <br>
+ Reach me at: www.linkedin.com/in/purvi-khandelwal45 <br>
 
 Thanks for stopping by — feel free to check out my projects below!
 
