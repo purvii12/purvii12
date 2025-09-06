@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a web developer who loves working on new ideas
  Ask me about: JavaScript, Python, C++ , Java , SQL . <br>
  Reach me at: www.linkedin.com/in/purvi-khandelwal45 <br>
 
-Thanks for stopping by — feel free to check out my projects below!
+Thanks for stopping by, feel free to check out my projects below!
 
 <!---
 purvii12/purvii12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
