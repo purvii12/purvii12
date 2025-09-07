@@ -11,6 +11,8 @@
   </div>
 </div>
 
+<h1 align="center">Hey There!, Welcome , I'm Purvi</h1> 
+<h3 align="center">A Machin Learning and Web Dev enthusiast</h3>
 
 ## About Me
 - Currently exploring **Machine learning, web development, and Sustainable Tech**  
