@@ -6,7 +6,7 @@
 
   <!-- Typing SVG Overlay -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+AI+for+Social+Impact;Always+learning.+Always+Building." 
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Building+AI+for+Social+Impact;A+Machine+Learning+and+Web+Dev+enthusiast;Always+learning.+Always+Building." 
          alt="Typing SVG" />
   </div>
 </div>
