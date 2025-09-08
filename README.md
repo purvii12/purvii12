@@ -71,14 +71,16 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55" style="margin:12px;"/></a>
 </p>
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purvii12&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=purvii12&theme=radical&hide_border=true" alt="streak" />
+<h2>GitHub Stats</h2>
+<center>
+<p>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=purvii12&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=purvii12&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="49%"/>
 </p>
+</center>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvii12&layout=compact&theme=radical&hide_border=true" alt="languages" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=purvii12&theme=tokyo-night&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
 </p>
 
 ## GitHub Trophies
