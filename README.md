@@ -14,7 +14,8 @@
 <h1 align="center">Hey There! I'm Purvi</h1> 
 
 ## About Me
-- Currently exploring **Machine learning, web development, and Sustainable Tech**  
+- Currently exploring **Machine learning, web development, and Sustainable Tech**
+- checkout: https://github.com/purvii12/ml-supervised-learning-algos
 - Passionate about building **AI for Social Good**  
 - Love writing raw, emotional, and thought-provoking articles  
 - Fun fact: I analyze people more than I analyze code
@@ -44,6 +45,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purvii12&label=Profile%20views&color=0e75b6&style=flat" alt="purvii12" /> </p>
 
 <br>
+
 ## Languages & Tools
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55" style="margin:12px;"/></a>
