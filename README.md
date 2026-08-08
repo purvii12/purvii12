@@ -14,11 +14,13 @@
 <h1 align="center">Hey There! I'm Purvi</h1> 
 
 ## About Me
-- Currently exploring **Machine learning, web development, and Sustainable Tech**
-- checkout: https://github.com/purvii12/ml-supervised-learning-algos
-- Passionate about building **AI for Social Good**  
-- Love writing raw, emotional, and thought-provoking articles  
-- Fun fact: I analyze people more than I analyze code
+- AI/ML Engineer & Developer building intelligent, real-world applications
+- Focused on Machine Learning, Deep Learning, Explainable AI & ML Systems
+- Experienced with Python, C++, JavaScript, React, Node.js & modern ML tools
+- Working on building AI for Social Good and solving meaningful real-world problems
+- Building, experimenting, and turning ideas into scalable products
+- I also write about people, psychology, philosophy, and life
+- Fun fact: I analyze people more than I analyze code.
   
 
 ## Lets Connect! 
